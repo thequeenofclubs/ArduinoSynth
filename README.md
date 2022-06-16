@@ -1,4 +1,7 @@
 # ArduinoSynth - Project Info
+#### Gabe Gonsalves
+#### April 14, 2022
+###### Coded in Java on macOS
 
 ## Introduction
 For the EECS 1021 Major Project, I chose to create a musical instrument. In order for the musical instrument to be worth making, I had to do some research. I wanted to ensure that the project satisfied one of the challenges of engineering, and I found that individuals who are on the Autism spectrum have difficulty with verbal communication and the related communication skills. These individuals, are able to respond to auditory signals at an increased rate, and music has been shown to increase social communication skills and increase family morale. I will create the designs and the code for such an instrument so that individuals can build it at home for low cost. 
