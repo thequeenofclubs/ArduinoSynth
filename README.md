@@ -1,5 +1,5 @@
 # ArduinoSynth - Project Info
-#### Gabe Gonsalves
+#### Tara Gonsalves
 #### April 14, 2022
 ###### Coded in Java on macOS
 
